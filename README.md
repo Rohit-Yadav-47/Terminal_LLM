@@ -12,9 +12,6 @@
 - [Usage](#usage)
 - [Available Commands](#available-commands)
 - [Supported Models](#supported-models)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
