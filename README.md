@@ -73,11 +73,6 @@
 
    - Open `terminal.py` in a text editor.
    - Locate the following line:
-
-     ```python
-     self.api_key = "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"  # Replace with your GROQ API key
-     ```
-
    - Replace the placeholder API key with your actual Groq API key:
 
      ```python
