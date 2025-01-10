@@ -1,6 +1,5 @@
 # Groq Terminal
 
-![Groq Terminal Banner](https://github.com/Rohit-Yadav-47/Terminal_LLM/blob/main/banner.png?raw=true)
 
 **Groq Terminal** is a powerful, terminal-based interface for interacting with Large Language Models (LLMs) using the Groq API. Designed for developers and enthusiasts who prefer a command-line experience, Groq Terminal offers a rich set of features, including multi-tabbed conversations, model switching, conversation history management, and more—all enhanced with a visually appealing interface using [Rich](https://github.com/Textualize/rich).
 
