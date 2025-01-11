@@ -26,8 +26,7 @@
 
 ## Demo
 
-
-![Groq Terminal Demo](https://github.com/user-attachments/assets/b04545d9-0306-494d-9497-1924dbb8575f)
+![Groq Terminal Demo](https://github.com/user-attachments/assets/bd65967b-9476-4bbc-a867-71a1ac379db9)
 
 ## Installation
 
