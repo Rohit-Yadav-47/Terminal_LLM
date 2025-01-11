@@ -26,9 +26,8 @@
 
 ## Demo
 
-![Groq Terminal Demo](https://github.com/Rohit-Yadav-47/Terminal_LLM/blob/main/demo.gif?raw=true)
 
-*Note: Replace the above link with an actual GIF or screenshot showcasing the terminal in action.*
+![Groq Terminal Demo](https://github.com/user-attachments/assets/b04545d9-0306-494d-9497-1924dbb8575f)
 
 ## Installation
 
